@@ -48,4 +48,4 @@ async def gamble(ctx, points, inputed_spins): #ctx, points:int, inputed_spins:in
 async def hello(ctx):
    await ctx.send("Hello! Ready to have some fun?\n\nRates:\n1 pull for 50 points\nFor every 10 spins you pay for we'll throw in another on the house :)\n\nTo gamble, simply type $gamble [points you have now] [spins you'll pay for] without the brackets. (Ex. $gamble 1000 10)\nP.S. This example will give you 11 spins because of our little bonus.")
 
-bot.run('OTIzNzU4MjE3MDIzMDcwMjI4.YcUq4Q.ZUxk3gCN5yKW44Ef3YC5e68nHOw')
+bot.run()
